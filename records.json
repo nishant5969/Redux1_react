@@ -1,0 +1,152 @@
+{
+    "articles":[
+         {
+           "id":1,
+           "title":"Increasing covid fear",
+           "body":"Fear is an adaptive response in the presence of danger. However, when threat is uncertain and continuous, as in the current coronavirus disease (COVID-19) pandemic, fear can become chronic and burdensome. To identify predictors of fear of the coronavirus, we conducted an online survey (N = 439) three days after the World Health Organization declared the coronavirus outbreak a pandemic (i.e., between March 14 and 17, 2020).",
+           "category":"Politics",
+           "img":"1.jpg",
+           "date":"21/21/1994",
+           "author":"Ayush gupta",
+           "views":"0",
+           "likes":[
+              0,
+              0
+           ]
+         },
+         {
+            "id":2,
+            "title":"Increasing Sports Activity",
+            "body":"Fear is an adaptive response in the presence of danger. However, when threat is uncertain and continuous, as in the current coronavirus disease (COVID-19) pandemic, fear can become chronic and burdensome. To identify predictors of fear of the coronavirus, we conducted an online survey (N = 439) three days after the World Health Organization declared the coronavirus outbreak a pandemic (i.e., between March 14 and 17, 2020).",
+            "category":"Sports",
+            "img":"2.jpg",
+            "date":"12/12/1998",
+            "author":"Vipul thakur",
+            "views":"0",
+            "likes":[
+               0,
+               0
+            ]
+         },
+         {
+            "id":3,
+            "title":"Increasing Technical jobs",
+            "body":"Fear is an adaptive response in the presence of danger. However, when threat is uncertain and continuous, as in the current coronavirus disease (COVID-19) pandemic, fear can become chronic and burdensome. To identify predictors of fear of the coronavirus, we conducted an online survey (N = 439) three days after the World Health Organization declared the coronavirus outbreak a pandemic (i.e., between March 14 and 17, 2020).",
+            "category":"Technical",
+            "img":"3.jpg",
+            "date":"8/8/1997",
+            "author":"Nishant Rana",
+            "views":"0",
+            "likes":[
+               0,
+               0
+            ]
+         },
+         {
+            "id":4,
+            "title":"Increasing Mental Problems",
+            "body":"Fear is an adaptive response in the presence of danger. However, when threat is uncertain and continuous, as in the current coronavirus disease (COVID-19) pandemic, fear can become chronic and burdensome. To identify predictors of fear of the coronavirus, we conducted an online survey (N = 439) three days after the World Health Organization declared the coronavirus outbreak a pandemic (i.e., between March 14 and 17, 2020).",
+            "category":"Mental specialist",
+            "img":"4.jpg",
+            "date":"25/25/1991",
+            "author":"Ayush verma",
+            "views":"0",
+            "likes":[
+               0,
+               0
+            ]
+         },
+         {
+            "id":5,
+            "title":"Increasing MBA Graduates",
+            "body":"Fear is an adaptive response in the presence of danger. However, when threat is uncertain and continuous, as in the current coronavirus disease (COVID-19) pandemic, fear can become chronic and burdensome. To identify predictors of fear of the coronavirus, we conducted an online survey (N = 439) three days after the World Health Organization declared the coronavirus outbreak a pandemic (i.e., between March 14 and 17, 2020).",
+            "category":"MBA specialist",
+            "img":"5.jpg",
+            "date":"03/15/1999",
+            "author":"Ankit Dhiman",
+            "views":"0",
+            "likes":[
+               0,
+               0
+            ]
+         },
+         {
+            "id":6,
+           "title":"Increasing Food Technology",
+           "body":"Fear is an adaptive response in the presence of danger. However, when threat is uncertain and continuous, as in the current coronavirus disease (COVID-19) pandemic, fear can become chronic and burdensome. To identify predictors of fear of the coronavirus, we conducted an online survey (N = 439) three days after the World Health Organization declared the coronavirus outbreak a pandemic (i.e., between March 14 and 17, 2020).",
+           "category":"Quality Specialist",
+           "img":"6.jpg",
+           "date":"01/01/1985",
+           "author":"Rohan Rana",
+           "views":"0",
+           "likes":[
+              0,
+              0
+           ]
+         },
+         {
+            "id":7,
+            "title":"Increasing Software Qualtiy",
+            "body":"Fear is an adaptive response in the presence of danger. However, when threat is uncertain and continuous, as in the current coronavirus disease (COVID-19) pandemic, fear can become chronic and burdensome. To identify predictors of fear of the coronavirus, we conducted an online survey (N = 439) three days after the World Health Organization declared the coronavirus outbreak a pandemic (i.e., between March 14 and 17, 2020).",
+            "category":"Quality Engineer",
+            "img":"7.jpg",
+            "date":"23/11/1996",
+            "author":"Utkarsh Sharma",
+            "views":"0",
+            "likes":[
+               0,
+               0
+            ]
+         }
+    ],
+    "gallery": [
+         {
+           "id":1,
+           "artist":"A.R Rehman",
+           "title":"Teri Or Teri Or",
+           "images":[
+              {
+                "img":"1_1.jpg",
+                "description":"Best song of the year"
+              },
+              {
+                "img":"1_2.jpg",
+                "description":"Good lyrics and beats"
+              },
+              {
+                "img":"1_3.jpg",
+                "description":"Synching of the words and beats is very very good"
+              }
+           ],
+           "views":0,
+           "likes":[
+               0,
+               0
+           ]
+         },
+         {
+            "id":2,
+            "artist":"Yo Yo Honey Singh",
+            "title":"Angreji Beat",
+            "images":[
+               {
+                 "img":"2_1.jpg",
+                 "description":"Best song of the decade"
+               },
+               {
+                 "img":"2_2.jpg",
+                 "description":"Good lyrics and beats"
+               },
+               {
+                 "img":"2_3.jpg",
+                 "description":"Synching of the words and beats is very very good"
+               }
+            ],
+            "views":0,
+            "likes":[
+                0,
+                0
+            ]
+         }
+    ]
+}
